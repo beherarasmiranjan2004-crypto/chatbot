@@ -11,4 +11,4 @@ Fully documented Jupyter Notebook
 Extendable for advanced chatbot applications
 
 you can clone it:
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/beherarasmiranjan2004-crypto/chatbot.git
